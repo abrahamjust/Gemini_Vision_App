@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gemini_Vision_App/static/css/main.0c4eb909.css",
+    "main.js": "/Gemini_Vision_App/static/js/main.825458d6.js",
+    "index.html": "/Gemini_Vision_App/index.html",
+    "main.0c4eb909.css.map": "/Gemini_Vision_App/static/css/main.0c4eb909.css.map",
+    "main.825458d6.js.map": "/Gemini_Vision_App/static/js/main.825458d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4eb909.css",
+    "static/js/main.825458d6.js"
+  ]
+}
