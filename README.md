@@ -1,5 +1,7 @@
 # A basic app that can 'see' images and analyze them - powered by Gemini AI
 
+# IMPORTANT: ALTHOUGH THIS IS HOSTED ON GITHUB PAGES, SINCE GITHUB PAGES DOES NOT SUPPORT HOSTING WEB PAGES WITH A BACKEND (ONLY SUPPORTS STATIC WEB SITES/PAGES), THIS APP DOES NOT WORK. I WILL FIGURE OUT WHERE TO HOST THIS LATER 
+
 Utilising the power of APIs, I have created this app that can 'see' images and then analyze them based on the user prompts.
 The analysis is done by Google's GEMINI AI, which is powerful enough to 'see' images and analyze them. Gemini AI has been included in this project using the GEMINI API.
 
